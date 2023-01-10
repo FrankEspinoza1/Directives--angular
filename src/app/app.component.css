@@ -1,0 +1,31 @@
+input {
+     padding: 20px;
+  }
+  
+  select {
+    max-width: 542px;
+    margin: auto;
+  }
+  
+  .no-eligio {
+    color: red;
+  }
+  
+  .suma {
+    color: blue;
+  }
+  
+  .resta {
+    color: darkgreen;
+  }
+  
+  .multipli {
+    color: gold;
+  }
+  
+  .divide {
+    color: steelblue;
+  }
+  .container{
+    width: 600px;
+  }
